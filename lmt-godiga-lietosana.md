@@ -1,13 +1,13 @@
-https://www.lmt.lv/lv/lmt-pakalpojumu-godigas-lietosanas-principi
-
-
 # LMT pakalpojumu godīgas lietošanas principi
+
+#### URL: https://www.lmt.lv/lv/lmt-pakalpojumu-godigas-lietosanas-principi
 
 LMT pakalpojumi ir paredzēti godīgai izmantošanai atbilstoši [LMT Pakalpojumu līguma noteikumiem](https://lmt.mstatic.lv/lmt/files/pdf/lmt_pakalpojumu_liguma_noteikumi_2018.pdf), LMT pakalpojumu aprakstiem un lietošanas nosacījumiem, kā arī normatīvajiem aktiem. Ar LMT Pakalpojumu līguma noteikumiem un pakalpojumu aprakstiem var iepazīties mājaslapā, kā arī jebkurā LMT klientu centrā.
 
 LMT pakalpojumi un piedāvājumi ir izstrādāti Latvijas iedzīvotājiem, kuri pārsvarā mobilos sakarus izmanto Latvijā. Tie nav paredzēti ilgstošai un pastāvīgai lietošanai ārvalstīs un citiem mērķiem, kas nav saistīti ar periodisku ceļošanu.
 
 Aizsardzība pret krāpniekiem un pakalpojumu nelabticīga izmantošana
+
 Lai nodrošinātu augstu aizsardzības līmeni pret krāpšanu un LMT pakalpojumu un numuru prettiesisku izmantošanu, LMT ir ieviesta uz riskiem balstīta krāpniecības noteikšanas un novēršanas sistēma, kas pamatojas uz objektīviem, tirgū atzītiem vai regulatoru izvērtētiem kritērijiem. Tā ļauj identificēt klienta netipisku uzvedību, kas var liecināt, ka pakalpojumi vai numuri tiek izmantoti nepareizi vai ļaunprātīgi – pretēji paredzētajam mērķim vai veidiem, vai arī tiek aizskartas citu lietotāju un LMT intereses.
 
 Piemēri
@@ -36,13 +36,11 @@ Piemēri
 
 Ja neesi pārliecināts, vai Tavas darbības LMT tīklā tiks uzskatītas par netipiskām vai kā citādi var pārkāpt normatīvo aktu prasības, aicinām savlaicīgi sazināties ar LMT, lai saņemtu atbildes uz visiem neskaidrajiem jautājumiem. Tāpat aicinām sazināties ar LMT arī gadījumos, ja attiecīgo LMT pakalpojumu ir paredzēts izmantot no pamatmērķa atšķirīgā veidā.
 
-https://www.lmt.lv/lv/lmt-pakalpojumu-godigas-lietosanas-principi?fid=270
-  
-  
 
 # LMT pakalpojumu godīgas izmantošanas noteikumi ārvalstīs
 
-Šeit Tu vari iepazīties ar [LMT pakalpojumu godīgas izmantošanas noteikumiem ārvalstīs](https://lmt.mstatic.lv/lmt/files/godigas-izmantosanas-noteikumi-eez_01.01.2023.pdf). Spēkā no 01.01.2023.
+#### URL: https://www.lmt.lv/lv/lmt-pakalpojumu-godigas-lietosanas-principi?fid=270
 
+Šeit Tu vari iepazīties ar [LMT pakalpojumu godīgas izmantošanas noteikumiem ārvalstīs](https://lmt.mstatic.lv/lmt/files/godigas-izmantosanas-noteikumi-eez_01.01.2023.pdf). Spēkā no 01.01.2023.
 
 https://www.lmt.lv/lv/lmt-pakalpojumu-godigas-lietosanas-principi?fid=896
