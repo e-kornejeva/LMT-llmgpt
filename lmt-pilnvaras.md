@@ -2,7 +2,6 @@
 
 #### URL: https://www.lmt.lv/lv/pilnvaras
 
-
 ## Vai es varu pilnvarot citu personu veikt darbības savā vārdā?
 
 Pilnvērtīgi to iespējams veikt tikai ar notariāli apstiprinātu pilnvaru, iesniedzot to klātienē jebkurā [LMT klientu centrā](https://www.lmt.lv/lv/kontakti-v2).
