@@ -3,10 +3,10 @@
 
 # Kādas ir pakalpojuma ATVĒRTAIS priekšrocības?
 
-Nav jāmaksā pirmā maksa.
-Lieto, kamēr patīk, un maini pret jaunu kaut pēc 9 mēnešiem.
-Ikmēneša maksa tikai 24 mēnešus – ja iekārtu lieto ilgāk, tai piemērojam 100% atlaidi.  
-Pieejams ikvienam – LMT un arī citu operatoru klientiem.
+ - Nav jāmaksā pirmā maksa.
+ - Lieto, kamēr patīk, un maini pret jaunu kaut pēc 9 mēnešiem.
+ - Ikmēneša maksa tikai 24 mēnešus – ja iekārtu lieto ilgāk, tai piemērojam 100% atlaidi.  
+ - Pieejams ikvienam – LMT un arī citu operatoru klientiem.
 
 
 https://www.lmt.lv/lv/atvertais-ligums?fid=530
@@ -67,13 +67,14 @@ https://www.lmt.lv/lv/atvertais-ligums?fid=538
   
 # Kā rīkoties, ja vēlos pārtraukt esošo ATVĒRTO līgumu un paņemt jaunu iekārtu?
 
-Pārtraucot ATVĒRTĀ līgumu, iekārta jāatdod jebkurā LMT klientu centrā.
+Pārtraucot ATVĒRTĀ līgumu, iekārta jāatdod jebkurā [LMT klientu centrā](https://www.lmt.lv/lv/lmt-klientu-centri-un-veikali).
 
-Pirms iekārtas atdošanas lūdzam pārliecināties par vairākām niansēm.
-Iekārtai jābūt tādā komplektācijā, kā to saņēmi, iepakojuma kasti ieskaitot.
-Iekārtai vēlams būt uzlādētai – tas atvieglos formalitāšu kārtošanas procesu.
-Pārliecinies, ka esi saglabājis visus nepieciešamos datus (kontaktus, bildes, mūziku utt.) kādā citā datu nesējā (datorā, mākonī). 
-Lūdzu, deaktivizē visus uzstādītos drošības kodus.
+Pirms iekārtas atdošanas lūdzam pārliecināties par vairākām niansēm:
+ - Iekārtai jābūt tādā komplektācijā, kā to saņēmi, iepakojuma kasti ieskaitot.
+ - Iekārtai vēlams būt uzlādētai – tas atvieglos formalitāšu kārtošanas procesu.
+ - Pārliecinies, ka esi saglabājis visus nepieciešamos datus (kontaktus, bildes, mūziku utt.) kādā citā datu nesējā (datorā, mākonī). 
+ - Lūdzu, deaktivizē visus uzstādītos drošības kodus.
+ 
 Ja neesi pārliecināts, kā to izdarīt, satraukumam nav pamata – droši nāc uz klientu centru, un mēs palīdzēsim!
 
 
@@ -82,7 +83,7 @@ https://www.lmt.lv/lv/atvertais-ligums?fid=540
   
 # Kā rīkoties, ja konstatēju kādu iekārtas defektu?
 
-ATVĒRTAIS līguma darbības laikā pakalpojuma ATVĒRTAIS iekārta jānodod uz pārbaudi un/vai remontu jebkurā LMT klientu centrā.
+ATVĒRTAIS līguma darbības laikā pakalpojuma ATVĒRTAIS iekārta jānodod uz pārbaudi un/vai remontu jebkurā [LMT klientu centrā](https://www.lmt.lv/lv/lmt-klientu-centri-un-veikali).
 
 
 https://www.lmt.lv/lv/atvertais-ligums?fid=539
@@ -90,7 +91,7 @@ https://www.lmt.lv/lv/atvertais-ligums?fid=539
   
 # Kā samazinās iekārtas vērtība un kā aprēķināt nolietojumu?
 
-Iekārtas dabiskais nolietojums ir pieļaujams, bet būtiskos bojājumus var novērst saskaņā ar LMT iekārtu remonta cenrādi.
+Iekārtas dabiskais nolietojums ir pieļaujams, bet būtiskos bojājumus var novērst saskaņā ar [LMT iekārtu remonta cenrādi](http://lmt.mstatic.lv/lmt/files/atvertais_cenradis_lv_2021-04.pdf).
 
 
 https://www.lmt.lv/lv/atvertais-ligums?fid=800
