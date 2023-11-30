@@ -80,5 +80,80 @@ Personas datu apstrādei veltām vislielāko rūpību. Šeit pieejama plašāka 
 
 
 
+  
+# Kā rīkoties, ja vēlos saņemt LMT piedāvājumus un jaunumus uz savu tālruni?
+
+[Kā rīkoties, ja vēlos saņemt LMT piedāvājumus un jaunumus uz savu tālruni?](https://www.lmt.lv/lv/datu-apstrade?fid=831)
+  
+  
+Ja vēlies būt informēts par LMT jaunumiem, aktualitātēm un piedāvātajām iespējām uz savu tālruni, Tev jāiesniedz sava piekrišana šādu LMT piedāvājumu saņemšanai. Tas prasīs vienu acumirkli!
+
+Lai sniegtu savu piekrišanu, no sava tālruņa, uz kuru vēlies saņemt informāciju, uz numuru 29307777 nosūti īsziņu JAUNUMI. Savu piekrišanu jebkurā laikā tikpat viegli var atsaukt, uz to pašu numuru sūtot komandu JAUNUMI STOP.
+
+Ja pēc laika pārdomā – droši atkal sūti no jauna pieteikšanās īsziņu. Šādi Tu viegli vari papildus informēt arī par citu savu tālruni – tikai nosūti pieteikšanās komandu no cita sava tālruņa. Tāpat vari labot informāciju par esošo tālruni. Ja savu tālruni nodod lietošanā citai personai, lūdzam mūs par to informēt, lai varam veikt izmaiņas un īstenot jaunā lietotāja izvēles. Atsaukums attieksies uz turpmāko, bet neietekmēs apstrādi, kas veikta pirms atsaukuma saņemšanas. Piekrišanas došana vai atsaukums ir Tava brīva izvēle un tas neuzliek obligātus papildu pienākumus.
+
+Pieteikšanās jaunumiem ir apstiprinājums, ka esi iepazinies ar šo informāciju un piekrīti, ka LMT kā pārzinis, pamatojoties uz Tavu piekrišanu, apstrādā Tavus datus – tālruņa numuru un, ja tāds sniegts, arī e-pastu un citu kontaktinformāciju, lai ar Tevi sazinātos zvana un īsziņas, kā arī, ja tāds papildus sniegts, e-pasta veidā [ar viedo e-mārketingu](https://www.lmt.lv/lv/datu-apstrade?fid=835), lai piedāvātu pakalpojumus, tai skaitā aktualitātes, jaunumus, individuālus sveicienus no LMT un aptaujas.
+
+Piekrišana ir spēkā līdz tās atsaukšanas brīdim vai izpildei, ja tas ir ātrāk. Par izpildi var tikt uzskatīta situācija, ja, piemēram, kopš pēdējās komunikācijas ir pagājuši vairāk nekā seši mēneši un nav paredzama turpmāka informācijas apmaiņa.
+
+Šī piekrišana attiecas uz personām, kas var patstāvīgi darboties. Ja informāciju par piedāvājumiem vēlas saņemt persona, kas ir jaunāka par normatīvajos aktos noteikto vecuma robežu, kas dod tiesības patstāvīgi darboties, lūdzam ar mums sazināties šādas personas vecākus vai aizbildņus. Šeit pieejama plašāka informācija par [personas datu jautājumiem un privātuma politika](https://www.lmt.lv/lv/datu-apstrade?fid=837).
+
+
+
+
+  
+  
+# Datu apstrāde rēķina samaksas termiņa pagarināšanas un maksājumu pārskatīšanas gadījumā
+
+[Datu apstrāde rēķina samaksas termiņa pagarināšanas un maksājumu pārskatīšanas gadījumā](https://www.lmt.lv/lv/datu-apstrade?fid=888)
+
+Klienta pieteikums rēķina samaksas termiņa pagarināšanai un/vai maksājumu pārskatīšanai vienlaikus ir arī klienta pieteikums personas datu apstrādei konkrētā jautājuma izskatīšanai. Lai izvērtētu klienta spēju pildīt saistības ilgtermiņā, rēķina samaksas termiņa pagarināšanas un maksājumu pārskatīšanas pieteikuma gadījumā var tikt apstrādāti līdzšinējās sadarbības dati, kā arī saņemti un apstrādāti kredītinformācijas dati no trešo pušu datubāzēm, tai skaitā parādvēstures informācija, kā arī informācija par kredītspēju un kredītreitingu, lai rastu klientam piemērotāko risinājumu un nodrošinātu saistību atbilstīgu pārvaldību.
+ 
+Datu apstrādes pamats ir ar darījumu saistītā maksājuma pieteikuma izskatīšana un pušu leģitīmās intereses. Atsevišķos gadījumos, kur tas nepieciešams saskaņā ar normatīvajiem aktiem, klientam var būt iespēja sniegt piekrišanu papildu datu apstrādei, ja tas būs nepieciešams attiecīgā jautājuma ietvaros.
+ 
+Klientam ir tiesības atsaukt sniegto piekrišanu jebkurā laikā, sazinoties ar LMT līdz personas datu apstrādei (pieteikuma izskatīšanas brīdim). Piekrišanas atsaukums neietekmē personas datu apstrādi, kas veikta līdz piekrišanas atsaukumam.
+ 
+Tāpat klientam ir tiesības iebilst uz leģitīmas intereses pamata veiktajai datu apstrādei, par iebildumiem  informējot LMT. Šādā gadījumā lūdzam ņemt vērā, ka pieteikuma izskatīšana var tikt atlikta, līdz tiks izskatīts klienta iebildums vai arī tas var prasīt papildu laiku un no klienta var būt nepieciešama papildu informācija, kas citā veidā dotu iespēju pārliecināties par pieteikumā ietvertā lūguma pamatotību un saistību turpmāku godprātīgu izpildi.
+ 
+Mums ir svarīgi rūpēties par ikvienu klientu gan pirms darījuma noslēgšanas, gan arī vēlākā sadarbības laikā, izvērtējot katru klienta iesniegto pieteikumu individuāli. Tas dod iespēju rast konkrētai situācijai piemērotāko risinājumu, kā arī pasargāt klientu no pārsteidzīgas maksājumu atlikšanas.
+ 
+Lūdzam ņemt vērā, ka maksājumu pagarināšana nemazina kopējo saistību apjomu un nav piemērots risinājums klienta saistību ikdienas pārvaldībai, tas ir  tikai izņēmums ārkārtas situācijā, lai sniegtu atbalstu klientam objektīvi nepieciešamā brīdī.
+ 
+Mēs atzinīgi vērtējam ikvienu klientu, kas savas saistības turpina pildīt noteiktajā laikā, bet, ja palīdzība tomēr nepieciešama, nekautrējies jau laicīgi mums to lūgt – mēs esam kopā ar saviem klientiem arī šādos brīžos. Mūsu iespējas, protams, nav bezgalīgas, mēs mēģinām primāri palīdzēt tiem, kam tas ir visvairāk nepieciešams, un īpaši novērtējam tos brīžus, kad esat līdz šim jau bijuši apzinīgi un lojāli klienti. Paldies  ikvienam par to!
+ 
+Plašāka informācija par mūsu īstenotajiem datu aizsardzības pasākumiem un klientu tiesībām mums iesniegt lūgumus, tostarp iebildumus par datu apstrādes jautājumiem, pieejama [LMT privātuma politikā](https://www.lmt.lv/lv/datu-apstrade?fid=837).
+  
+  
+# Datu apstrāde ar kredītlimitu saistīta darījuma gadījumā
+
+[Datu apstrāde ar kredītlimitu saistīta darījuma gadījumā](https://www.lmt.lv/lv/datu-apstrade?fid=898)
+
+Rūpējoties par klienta spēju pildīt saistības ilgtermiņā ar kredītlimitu saistītu darījumu ietvaros (piem., izvēloties pakalpojumu, tiek saņemta vai iegādāta iekārta), var tikt veikta klienta kredītspējas pārbaude, izvērtējot klienta un LMT līdzšinējās sadarbības datus, kā arī no trešo pušu kredītinformācijas datubāzēm saņemto informāciju. 
+
+Kredītspējas pārbaude var tikt veikta arī gadījumos, ja piesaka papildu jautājuma izskatīšanu saistībā ar darījuma slēgšanu, vēlas esošā līguma darbības laikā veikt izmaiņas (t.sk. saistībā ar [rēķina termiņa pagarināšanu](https://www.lmt.lv/lv/datu-apstrade?fid=888)) vai iegādāties papildu pakalpojumus, kas paaugstina kredītrisku. Šāda datu apstrāde tiek veikta uz darījuma pamata, lai varētu noteikt klientam atbilstošāko darījuma apjomu un klientam ilgtermiņā būtu iespēja izpildīt savas saistības.
+
+Papildus klientam ir iespēja dot piekrišanu datu apstrādei arī no trešo pušu parādvēstures datubāzēm – tas ļauj vēl precīzāk izvērtēt konkrētajam klientam piemērotāko risinājumu. Piekrišanu var ērti atsaukt jebkurā brīdī, informējot par to LMT un neietekmējot datu apstrādi, kas veikta līdz piekrišanas atsaukuma brīdim.
+
+Lai varētu novērtēt klienta patieso kredītspēju, var būt nepieciešamība veikt pārbaudi arī trešo pušu datubāzēs saistībā ar klienta pārstāvību, t.sk. pilnvarotās personas un amatpersonas. Šādu apstrādi veicam, ja ir saņemta piekrišana.
+
+Šo piekrišanu var dot konkrēta darījuma vai – lai darījumus nodrošinātu vēl ātrāk – turpmākās sadarbības ietvaros. Atgādinām, ka piekrišanu var ērti pārvaldīt Mans LMT – Profils – Piekrišanas. Piekrišanas došana ir apliecinājums, ka klients un ar klienta pārstāvību saistītās personas ir informētas par LMT veikto datu apstrādi klienta darījumu slēgšanas un nodrošināšanas nolūkā.
+
+Ja kredītspēja nav pietiekama vai ir negatīva, darījums var tikt atteikts vai nodrošināts mazākā kredītapjomā. Mums rūp ilgtermiņa sadarbība ar klientu, kā arī tas, lai noslēgtās saistības atbilst klienta vajadzībām un nerada grūtības to izpildē, tādēļ darām visu nepieciešamo, lai ikviens klients, kas vēlas saņemt ar kredītlimitu saistītus pakalpojumus, varētu savu izvēli izdarīt pārdomāti. 
+
+Mūsu klientu konsultanti vienmēr ir klientu rīcībā, lai kopā varētu rast piemērotāko risinājumu. Tāpat – lai neskumdina ilgtermiņa līguma atteikums, ja tāds tiek saņemts – vēlamies informēt, ka tas nekādi neierobežo klientu izvēlēties mūsu preces, veicot maksājumu pilnā apmērā. LMT klientu centros un [e-veikalā](https://www.lmt.lv/lv/veikals) ir pieejams plašs preču klāsts ikviena klienta vajadzībām un gaumei.
+
+Šādas datu apstrādes nolūks – izvērtēt un prognozēt klienta spēju izpildīt saistības ar iekārtu kredītlimitu saistītu darījumu gadījumā. Apstrādājot klienta personas datus kredītspējas izvērtēšanai mēs, piemēram, veiksim automatizētu informācijas apstrādi, kas mums tiesiski pieejama ārējās datu bāzēs un kas izriet no spēkā esošām klienta un LMT līgumsaistībām, noteiktos gadījumos – līdzšinējās sadarbības. 
+
+Automatizētu lēmumu pieņemšanas risinājumā tiek apstrādāti, piemēram, personas kredītspējas izvērtējuma dati (kredītreitings). Šādas datu apstrādes rezultātā atsevišķu pakalpojumu sniegšana var tikt atteikta, taču klientam vienmēr ir iespēja arī citā veidā sniegt LMT informāciju, kas pamato spēju pildīt izvēlētā darījuma saistības.
+
+Ja sniegtā atbilde, tostarp darījuma noslēgšanas atteikums, piemēram, nepietiekamas kredītinformācijas gadījumā klientam nešķiet pietiekama, klientam ir iespēja lūgt mūsu speciālistu iesaisti situācijas izvērtēšanā. Šādā gadījumā aicināsim iesniegt rakstisku lūgumu, pievienojot informāciju, kas dotu iespēju atkārtoti izvērtēt sadarbības iespējas. Mūsu speciālisti katru šādu lūgumu izskatīs individuāli un sniegs atbildi.
+
+Personas datu apstrādē ievērojam normatīvo aktu prasības, kā arī datu subjektu un patērētāju tiesību aizsardzības principus, tostarp atbildīgas aizdošanas jomā.
+
+Plašāka informācija par personas datu jautājumiem ir pieejama [LMT privātuma politikā](https://www.lmt.lv/lv/datu-apstrade?fid=837) un attiecīgā pakalpojuma aprakstā.
+
+
+
+
 
   
