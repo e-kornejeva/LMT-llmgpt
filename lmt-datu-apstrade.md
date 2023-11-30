@@ -53,8 +53,7 @@ https://www.lmt.lv/lv/datu-apstrade?fid=840
 
 |Piekrišana	| Klientu grupa	| Īsziņas komanda piekrišanas sniegšanai	| Īsziņas komanda piekrišanas atsaukšanai |
 |-----------------|---------|-----|-----|
-| LMT piedāvājumi: Atļauja apstrādāt personas datus, lai piedāvātu pakalpojumus, aktualitātes, jaunumus, t.sk. sūtītu individuālus sveicienus un aptaujas uz Tavu kontakttālruni (zvani un SMS)	| LMT un citu komersantu klienti
-[VAIRĀK](https://www.lmt.lv/lv/datu-apstrade?fid=831)	| JAUNUMI	| JAUNUMI STOP |
+| LMT piedāvājumi: Atļauja apstrādāt personas datus, lai piedāvātu pakalpojumus, aktualitātes, jaunumus, t.sk. sūtītu individuālus sveicienus un aptaujas uz Tavu kontakttālruni (zvani un SMS)	| LMT un citu komersantu klienti [VAIRĀK](https://www.lmt.lv/lv/datu-apstrade?fid=831)	| JAUNUMI	| JAUNUMI STOP |
   
   
   
