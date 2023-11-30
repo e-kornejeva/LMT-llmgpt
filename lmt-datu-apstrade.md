@@ -50,10 +50,16 @@ https://www.lmt.lv/lv/datu-apstrade?fid=840
 Šeit Tu vari aplūkot, kādas piekrišanas iespējams sniegt un atsaukt, sūtot īsziņas komandu uz numuru 29307777.
 
 
+
 |Piekrišana	| Klientu grupa	| Īsziņas komanda piekrišanas sniegšanai	| Īsziņas komanda piekrišanas atsaukšanai |
 |-----------------|---------|-----|-----|
 | LMT piedāvājumi: Atļauja apstrādāt personas datus, lai piedāvātu pakalpojumus, aktualitātes, jaunumus, t.sk. sūtītu individuālus sveicienus un aptaujas uz Tavu kontakttālruni (zvani un SMS)	| LMT un citu komersantu klienti [VAIRĀK](https://www.lmt.lv/lv/datu-apstrade?fid=831)	| JAUNUMI	| JAUNUMI STOP |
 |Elektronisko sakaru metadati individuālai sadarbībai: Atļauja apstrādāt elektronisko sakaru metadatus, t.sk. noslodzes datus, tostarp izmantoto apjomu, veidu, iekārtu, datumu, laiku, vietu, ilgumu, lai sniegtu papildvērtības pakalpojumus, piedāvājot interesēm, vajadzībām un paradumiem atbilstošākos piedāvājumus un nodrošinātu atbalstu pakalpojumu lietošanā	| Tikai LMT klienti	|METADATI	|METADATI STOP|
 |Automatizēta apstrāde, tostarp profilēšana individuālai sadarbībai: Atļauja apstrādāt personas datus individuālu lēmumu pieņemšanai automatizētā veidā, tostarp profilējot kopējo sadarbības ilgumu un apjomu, t.sk. profilējot un saņemot kredītspējas informāciju arī no trešo pušu datubāzēm, lai nodrošinātu ātrāku apkalpošanu, kā arī interesēm, vajadzībām un paradumiem atbilstošāko piedāvājumu sniegšanu	| Tikai LMT klienti	|AUTO	|AUTO STOP|
-  
-  
+|Atrašanās vietas dati individuālai sadarbībai: Atļauja apstrādāt atrašanās vietas datus, t.sk. iekārtas atrašanās vietu – pieslēguma punkta adresi un ģeogrāfisko adresi, kā arī informāciju par interesējošām vietām, lai sniegtu papildvērtības pakalpojumus, piedāvājot interesēm, vajadzībām un paradumiem atbilstošākos piedāvājumus un nodrošinātu atbalstu pakalpojumu lietošanā, tostarp informējot par konkrētā vietā pieejamiem piedāvājumiem, tehnoloģijām, kultūras vai sporta aktualitātēm	|Tikai LMT klienti	|VIETA	|VIETA STOP|
+|Lojalitātes dati individuālai sadarbībai – LMT piedāvājumi: Atļauja apstrādāt personas datus, saglabājot kontaktdatus un darījumu lojalitātes datus, tai skaitā kredītspējas datus, lai divu gadu laikā pēc pēdējā darījuma beigām varētu piedāvāt interesēm, vajadzībām un paradumiem atbilstošākos piedāvājumus, aktualitātes, jaunumus, individuālus sveicienus un aptaujas uz Tavu kontakttālruni (zvani un SMS)	| Tikai LMT klienti	|SADARBIBA	|SADARBIBA STOP|
+
+
+Arī [ŠEIT](https://www.lmt.lv/lv/datu-apstrade?fid=840) pieejama izsmeļoša informācija par to, kas ir piekrišanas un kādas iespējas tās paver.
+
+
