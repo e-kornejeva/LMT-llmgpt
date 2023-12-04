@@ -14,7 +14,7 @@
 
 # 2.	Pakalpojuma maksa un samaksas kārtība 
 
-v2.1. Pakalpojuma maksa par pakalpojuma izmantošanu telefonā vai planšetē – 1.50 €/mēn. (iesk. PVN) par pieslēguma numuru; Interneta sargs mājai – 2.50 €/mēn. (iesk. PVN) par pieslēgumu numuru. Ģimenes komplekta ietvaros: Interneta sargs telefonā vai planšetē – 1.20 €/mēn. (iesk. PVN) par pieslēguma numuru; Interneta sargs mājai – 2.00 €/mēn. (iesk. PVN) par pieslēguma numuru. 
+## 2.1. Pakalpojuma maksa par pakalpojuma izmantošanu telefonā vai planšetē – 1.50 €/mēn. (iesk. PVN) par pieslēguma numuru; Interneta sargs mājai – 2.50 €/mēn. (iesk. PVN) par pieslēgumu numuru. Ģimenes komplekta ietvaros: Interneta sargs telefonā vai planšetē – 1.20 €/mēn. (iesk. PVN) par pieslēguma numuru; Interneta sargs mājai – 2.00 €/mēn. (iesk. PVN) par pieslēguma numuru. 
 
 ## 2.2. Pakalpojuma mēneša maksa tiek iekļauta abonenta kārtējā rēķinā par LMT sniegtajiem pakalpojumiem. Rēķinā iekļauto pakalpojuma maksu abonents samaksā LMT Pakalpojumu līguma noteikumos noteiktajā vispārējā kārtībā. 
 
