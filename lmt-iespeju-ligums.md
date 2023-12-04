@@ -32,7 +32,7 @@ Rūpējoties par klienta spējām ilgtermiņā pildīt saistības, Iespēju līg
   
 # Vai varu dabūt vairākas iekārtas Iespēju līguma ietvaros?
 
-[Vai varu dabūt vairākas iekārtas Iespēju līguma ietvaros?(https://www.lmt.lv/lv/iespeju-ligums-faq?fid=933)
+[Vai varu dabūt vairākas iekārtas Iespēju līguma ietvaros?](https://www.lmt.lv/lv/iespeju-ligums-faq?fid=933)
 
 Iekārtu skaits nav ierobežots, taču katru gadījumu izvērtējam individuāli.
 
