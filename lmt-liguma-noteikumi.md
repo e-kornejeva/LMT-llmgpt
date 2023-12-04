@@ -12,7 +12,7 @@ LMT klientiem – fiziskajām personām, kas iegādājas preces vai pakalpojumus
 LMT mājas lapā publicētā informācija par elektronisko sakaru un citiem pakalpojumiem, to lietošanas noteikumiem un aprakstiem, pakalpojumu kvalitāti, maksām, tarifiem un norēķiniem ir LMT Pakalpojumu līguma neatņemama sastāvdaļa. Mājas lapā pieejamo informāciju ikvienam klientam ir iespējams apskatīt tiešsaistē, kā arī saglabāt, piemēram, veicot izdruku. Papildus šī informācija ir pieejama, zvanot uz LMT informatīvo bezmaksas tālruni 8076 8076, kā arī apmeklējot jebkuru [LMT klientu centru](https://www.lmt.lv/lv/lmt-klientu-centri-un-veikali).
 
 
-https://www.lmt.lv/lv/ligumu-noteikumi?fid=156
+#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=156
   
   
 # Nomaksas līgums
@@ -26,7 +26,7 @@ Pirms LMT pakalpojumu lietošanas lūdzam iepazīties ar LMT sniegto datu apstr�
 Apstrādājamo datu mērķis ir īstenot izvēlētā pakalpojuma izpildi, tostarp norēķinus un pieteikto jautājumu risināšanu, ja tādi rodas, kā arī saistošo normatīvo aktu izpildi. Datu apstrādes pamats ir pieprasītais LMT pakalpojums un ar to saistīto normatīvo aktu īstenošana. Šāda apstrāde ir priekšnosacījums darījuma izpildei, un datu nesniegšana var daļēji vai pilnībā kavēt vai pārtraukt darījuma nodrošināšanu. Attiecībā uz saviem datiem LMT klientam ir tiesības īstenot normatīvajos aktos noteiktās tiesības. Plašāka informācija par LMT īstenoto datu aizsardzību un tiesībām datu apstrādes jomā pieejama [LMT privātuma politikā.](https://www.lmt.lv/lv/datu-apstrade)
 
 
-https://www.lmt.lv/lv/ligumu-noteikumi?fid=305
+#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=305
   
   
 # ATVĒRTAIS līgums
@@ -40,7 +40,7 @@ ATVĒRTĀ LĪGUMA ietvaros var tikt apstrādāti pamatdati, piemēram, vārds, u
 Apstrādājamo datu mērķis ir īstenot izvēlētā pakalpojuma izpildi, tostarp norēķinus un pieteikto jautājumu risināšanu, ja tādi rodas, kā arī saistošo normatīvo aktu izpildi. Datu apstrādes pamats ir pieprasītais LMT pakalpojums un ar to saistīto normatīvo aktu īstenošana. Šāda apstrāde ir priekšnosacījums darījuma izpildei, un datu nesniegšana var daļēji vai pilnībā kavēt vai pārtraukt darījuma nodrošināšanu. Attiecībā uz saviem datiem LMT klientam ir tiesības īstenot normatīvajos aktos noteiktās tiesības. Plašāka informācija par LMT īstenoto datu aizsardzību un tiesībām datu apstrādes jomā pieejama [LMT privātuma politikā](https://www.lmt.lv/lv/datu-apstrade).
 
 
-https://www.lmt.lv/lv/ligumu-noteikumi?fid=529
+#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=529
   
   
 # Iespēju līgums
@@ -48,7 +48,7 @@ https://www.lmt.lv/lv/ligumu-noteikumi?fid=529
 Šeit Tu vari iepazīties ar [Iespēju līguma](https://lmt.mstatic.lv/lmt/files/pdf/iespeju_ligums.pdf) noteikumiem.
 
 
-https://www.lmt.lv/lv/ligumu-noteikumi?fid=928
+#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=928
   
   
 # Atteikuma tiesības
@@ -58,7 +58,7 @@ LMT klientiem – fiziskām personām, kas iegādājas preces vai pakalpojumus n
 Ar Atteikuma informāciju iepazīsties šeit: https://www.lmt.lv/lv/atteikums.
 
 
-https://www.lmt.lv/lv/ligumu-noteikumi?fid=159
+#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=159
   
   
 # Atpirkuma noteikumi
@@ -68,7 +68,7 @@ Iekārtu atpirkšanas iespēju piedāvā LMT Retail & Logistics SIA.
 Šeit Tu vari iepazīties ar pakalpojuma [“Iekārtu atpirkums” noteikumiem](https://lmt.mstatic.lv/lmt/files/pdf/iekartu_atpirkums_noteikumi_19_03_2018.pdf).
 
 
-https://www.lmt.lv/lv/ligumu-noteikumi?fid=160
+#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=160
   
   
 # Ģimenes komplekts+
@@ -117,15 +117,15 @@ Apstrādājamo datu mērķis ir īstenot izvēlētā pakalpojuma izpildi, tostar
 Visas maksas norādītas € ar PVN.
 
 
-https://www.lmt.lv/lv/ligumu-noteikumi?fid=897
+#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=897
   
   
-I# nterneta sargs
+# Interneta sargs
 
 Šeit Tu vari iepazīties ar pakalpojuma [“Interneta sargs” noteikumiem](http://lmt.mstatic.lv/lmt/files/interneta-sargs_noteikumi_v1.pdf).
 
 
-https://www.lmt.lv/lv/ligumu-noteikumi?fid=926
+#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=926
   
   
 # Viedtelevīzija
@@ -133,4 +133,4 @@ https://www.lmt.lv/lv/ligumu-noteikumi?fid=926
 Šeit Tu vari iepazīties ar [Viedtelevīzijas](https://lmt.mstatic.lv/lmt/files/viedtv_noteikumi_v1.0.pdf) pakalpojuma noteikumiem.
 
 
-https://www.lmt.lv/lv/ligumu-noteikumi?fid=992
+#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=992
