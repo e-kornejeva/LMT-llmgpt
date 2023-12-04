@@ -69,7 +69,7 @@ Pēc 36 mēnešiem Iespēju līguma ikmēneša maksai tiek piemērota 100% atlai
 [Vai Iespēju līguma iekārtu varēšu iegūt savā īpašumā?](https://www.lmt.lv/lv/iespeju-ligums-faq?fid=937)
 
 Iespēju līguma darbības laikā Tev ir piešķirtas iekārtas lietošanas tiesības, un Tu vari lietot to, cik ilgi vien vēlies! Taču, kad izlemsi izbeigt līgumu, iekārta būs jāatdod LMT.
-Atdotās iekārtas, kas ir labā stāvoklī un bez bojājumiem, var tikt piedāvātas otrreizējā tirdzniecībā. Cena būs atkarīga no konkrētā modeļa un tābrīža tirgus situācijas.
+Atdotās iekārtas, kas ir labā stāvoklī un bez bojājumiem, var tikt piedāvātas otrreizējā tirdzniecībā. Cena būs atkarīga no konkrētā modeļa un tābrīža tirgus situācijas. 
 
 
   
