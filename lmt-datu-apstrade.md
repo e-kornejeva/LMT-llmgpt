@@ -1,7 +1,8 @@
 #### URL:https://www.lmt.lv/lv/datu-apstrade
 
 # Privātuma atruna
-[Privātuma atruna](https://www.lmt.lv/lv/datu-apstrade?fid=836)
+
+#### URL: https://www.lmt.lv/lv/datu-apstrade?fid=836
   
 LMT mājaslapas apmeklētāju personas datu aizsardzību LMT nodrošina atbilstoši Latvijā spēkā esošajiem normatīvajiem aktiem. LMT ir veicis visus nepieciešamos pasākumus, lai nodrošinātu personas datu drošību un nepieļautu to nepamatotu nokļūšanu trešo personu rīcībā. Tomēr LMT nevar uzņemties atbildību par citām mājaslapām, uz kurām ir saites no LMT mājaslapas, vai par citu personu pakalpojumiem, kam var piekļūt, izmantojot LMT tīklu.
 
@@ -16,7 +17,7 @@ Arī LMT mājaslapā tiek izmantotas sīkdatnes (cookies), kas nodrošina mājas
   
 # Informācija par personas datu apstrādi (Privātuma politika)
 
-[Informācija par personas datu apstrādi (Privātuma politika)](https://www.lmt.lv/lv/datu-apstrade?fid=837)
+#### URL: https://www.lmt.lv/lv/datu-apstrade?fid=837
 
 ## LMT veiktā personas datu apstrāde
 
@@ -38,14 +39,14 @@ Ikvienam ir iespēja brīvi izvēlēties – dot vai nedot piekrišanu savu pers
   
 # Kas ir piekrišanas?
 
-[Kas ir piekrišanas?](https://www.lmt.lv/lv/datu-apstrade?fid=840)
+#### URL: https://www.lmt.lv/lv/datu-apstrade?fid=840
 
 Uzzini, [kas ir piekrišanas](https://lmt.mstatic.lv/lmt/files/piekrisanas/piekrisanas_skaidrojums_29.11.2023.pdf) un kādas iespējas tās paver! Kad būsi izdarījis savas izvēles, mēs varēsim piedāvāt tieši Tev noderīgu informāciju, kā arī netraucēt ar to, kas Tev nešķiet pievilcīgs. Visērtāk to izdarīt internetvietnē [Mans LMT](https://mans.lmt.lv/) sadaļā “Profils” –> “Piekrišanas” vai jebkurā [LMT klientu centrā](https://www.lmt.lv/lv/kontakti-v2) visā Latvijā. Daļu piekrišanu iespējams sniegt un atsaukt arī ar [īsziņu palīdzību](https://www.lmt.lv/lv/datu-apstrade?fid=841). Lai Tavi dati strādā Tavā labā!
 
     
 # Kādas piekrišanas var sniegt/atsaukt ar īsziņas palīdzību?
 
-[Kādas piekrišanas var sniegt/atsaukt ar īsziņas palīdzību?](https://www.lmt.lv/lv/datu-apstrade?fid=841)
+#### URL: https://www.lmt.lv/lv/datu-apstrade?fid=841
 
 Šeit Tu vari aplūkot, kādas piekrišanas iespējams sniegt un atsaukt, sūtot īsziņas komandu uz numuru 29307777.
 
@@ -64,7 +65,7 @@ Arī [ŠEIT](https://www.lmt.lv/lv/datu-apstrade?fid=840) pieejama izsmeļoša i
 
 # Kas ir viedais e-mārketings?
 
-[Kas ir viedais e-mārketings?](https://www.lmt.lv/lv/datu-apstrade?fid=835)
+#### URL: https://www.lmt.lv/lv/datu-apstrade?fid=835
 
 Klientu izdarītās izvēles izvirzām pirmajā vietā, un mūsdienu tehnoloģiju rīki palīdz mums vislabāk to īstenot. Ikdienas plašajā saziņā e-pastos nonāk arvien lielāks informācijas apjoms. Kaut objektīvi tā parasti ir vajadzīga un derīga informācija, konkrētam saņēmējam tā var nešķist tik interesanta vai saistoša. Tādējādi var rasties situācija, ka saistošu un gaidītu informāciju saņēmējs var nemaz nepamanīt. 
 
@@ -83,7 +84,7 @@ Personas datu apstrādei veltām vislielāko rūpību. Šeit pieejama plašāka 
   
 # Kā rīkoties, ja vēlos saņemt LMT piedāvājumus un jaunumus uz savu tālruni?
 
-[Kā rīkoties, ja vēlos saņemt LMT piedāvājumus un jaunumus uz savu tālruni?](https://www.lmt.lv/lv/datu-apstrade?fid=831)
+#### URL: https://www.lmt.lv/lv/datu-apstrade?fid=831
   
   
 Ja vēlies būt informēts par LMT jaunumiem, aktualitātēm un piedāvātajām iespējām uz savu tālruni, Tev jāiesniedz sava piekrišana šādu LMT piedāvājumu saņemšanai. Tas prasīs vienu acumirkli!
@@ -99,13 +100,9 @@ Piekrišana ir spēkā līdz tās atsaukšanas brīdim vai izpildei, ja tas ir �
 Šī piekrišana attiecas uz personām, kas var patstāvīgi darboties. Ja informāciju par piedāvājumiem vēlas saņemt persona, kas ir jaunāka par normatīvajos aktos noteikto vecuma robežu, kas dod tiesības patstāvīgi darboties, lūdzam ar mums sazināties šādas personas vecākus vai aizbildņus. Šeit pieejama plašāka informācija par [personas datu jautājumiem un privātuma politika](https://www.lmt.lv/lv/datu-apstrade?fid=837).
 
 
-
-
-  
-  
 # Datu apstrāde rēķina samaksas termiņa pagarināšanas un maksājumu pārskatīšanas gadījumā
 
-[Datu apstrāde rēķina samaksas termiņa pagarināšanas un maksājumu pārskatīšanas gadījumā](https://www.lmt.lv/lv/datu-apstrade?fid=888)
+#### URL: https://www.lmt.lv/lv/datu-apstrade?fid=888
 
 Klienta pieteikums rēķina samaksas termiņa pagarināšanai un/vai maksājumu pārskatīšanai vienlaikus ir arī klienta pieteikums personas datu apstrādei konkrētā jautājuma izskatīšanai. Lai izvērtētu klienta spēju pildīt saistības ilgtermiņā, rēķina samaksas termiņa pagarināšanas un maksājumu pārskatīšanas pieteikuma gadījumā var tikt apstrādāti līdzšinējās sadarbības dati, kā arī saņemti un apstrādāti kredītinformācijas dati no trešo pušu datubāzēm, tai skaitā parādvēstures informācija, kā arī informācija par kredītspēju un kredītreitingu, lai rastu klientam piemērotāko risinājumu un nodrošinātu saistību atbilstīgu pārvaldību.
  
@@ -126,7 +123,7 @@ Plašāka informācija par mūsu īstenotajiem datu aizsardzības pasākumiem un
   
 # Datu apstrāde ar kredītlimitu saistīta darījuma gadījumā
 
-[Datu apstrāde ar kredītlimitu saistīta darījuma gadījumā](https://www.lmt.lv/lv/datu-apstrade?fid=898)
+#### URL: https://www.lmt.lv/lv/datu-apstrade?fid=898
 
 Rūpējoties par klienta spēju pildīt saistības ilgtermiņā ar kredītlimitu saistītu darījumu ietvaros (piem., izvēloties pakalpojumu, tiek saņemta vai iegādāta iekārta), var tikt veikta klienta kredītspējas pārbaude, izvērtējot klienta un LMT līdzšinējās sadarbības datus, kā arī no trešo pušu kredītinformācijas datubāzēm saņemto informāciju. 
 
