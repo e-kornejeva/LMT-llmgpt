@@ -19,31 +19,31 @@ Papildus patērētāji var izmantot arī tiesības tālāk vērsties pie konkrē
 
 Ja vēlies saņemt LMT piedāvājumus un jaunumus, informācija par pieteikšanās iespējām pieejama [ŠEIT](https://www.lmt.lv/lv/datu-apstrade?fid=831).
 
-https://www.lmt.lv/lv/juridiska-informacija?fid=153
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=153
   
 # Elektronisko sakaru pakalpojumu kvalitāte
 
 Šeit Tu vari uzzināt vairāk par faktoriem, kas ietekmē [elektronisko sakaru pakalpojumu kvalitāti](https://lmt.mstatic.lv/lmt/files/pakalpojumu-kvalitate_30.11.2022.pdf), kā arī kvalitātes rādītājiem.
 
-https://www.lmt.lv/lv/juridiska-informacija?fid=154
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=154
   
 # Nepārvaramas varas apstākļi
 
 Nepārvaramas varas apstākļu dēļ LMT pakalpojumu sniegšana var tikt pārtraukta uz laiku līdz nepārvaramas varas apstākļu darbības beigām. LMT neatbild par līguma saistību neizpildi vai nepienācīgu izpildi, ja tā cēlonis ir nepārvarama vara. Par nepārvaramas varas apstākļiem līguma izpratnē ir uzskatāmi apstākļi, kas ir ārpus LMT kontroles un traucē LMT pildīt saistības, piemēram, karš, nemieri, terorisms, dabas katastrofas, eksplozijas un ugunsgrēki, streiki, trešo personu prettiesiska rīcība, elektroapgādes traucējumi, traucējumi citos elektronisko sakaru tīklos, valsts un pašvaldību iestāžu noteiktie aizliegumi, ierobežojumi u.tml.
 
-https://www.lmt.lv/lv/juridiska-informacija?fid=490
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=490
   
 # LMT Klientu attālinātās apkalpošanas noteikumi
 
 Šeit Tu vari iepazīties ar [LMT Klientu attālinātās apkalpošanas noteikumiem](https://lmt.mstatic.lv/lmt/files/lmt-klientu-attalinatas-apkalposanas-noteikumi_2023.pdf), kas ietver informāciju par LMT e-veikala, Mans LMT un zvanu centra izmantošanu.
 
-https://www.lmt.lv/lv/juridiska-informacija?fid=155
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=155
   
 # Pakalpojuma Privātais maksājums noteikumi
 
 Šeit Tu vari iepazīties ar LMT pakalpojuma [Privātais maksājums](https://lmt.mstatic.lv/lmt/files/privatais_maksajums_noteikumi_v1.pdf) noteikumiem. 
 
-https://www.lmt.lv/lv/juridiska-informacija?fid=268
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=268
   
 # LMT Kartes papildināšana ar bankas maksājumu karti
 
@@ -72,7 +72,7 @@ Lūdzam sagaidīt ziņojumu par samaksas rezultātu. Neveiksmīgas samaksas tran
 9. Jautājumu gadījumos par LMT Kartes pakalpojumiem lūdzam sazināties ar mums pa tālr. 80768076.
 
 
-https://www.lmt.lv/lv/juridiska-informacija?fid=393
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=393
   
   
 # Piekļuves liegšana interneta vietnēm
@@ -80,7 +80,7 @@ https://www.lmt.lv/lv/juridiska-informacija?fid=393
 Atbilstoši Elektronisko sakaru likuma 19.panta pirmās daļas 22.punktam un Ministru kabineta noteikumiem Nr.291 "Kārtība, kādā Izložu un azartspēļu uzraudzības inspekcija sagatavo un nosūta lēmumu par piekļuves ierobežošanu Latvijā nelicencētu interaktīvo azartspēļu organizētāju interneta mājas lapām" tiek ierobežota piekļuve Izložu un azartspēļu uzraudzības inspekcijas norādītajām Latvijā nelicencētu interaktīvo azartspēļu organizētāju interneta vietnēm. Bloķēto interneta vietņu saraksts pieejams [Izložu un azartspēļu uzraudzības inspekcijas](https://www.iaui.gov.lv/lv/azartspeles/bloketas-saites) tīmekļa vietnē.
 
 
-https://www.lmt.lv/lv/juridiska-informacija?fid=617
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=617
   
   
 # BGK tālvadības pilotu apmācību apraksts un noteikumi
@@ -88,11 +88,11 @@ https://www.lmt.lv/lv/juridiska-informacija?fid=617
 Šeit Tu vari iepazīties ar LMT bezpilota gaisa kuģu tālvadības pilotu [apmācību aprakstu un noteikumiem](http://lmt.mstatic.lv/lmt/files/bgk_talvadibas_pilotu_apmacibas.pdf).
 
 
-https://www.lmt.lv/lv/juridiska-informacija?fid=900
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=900
   
   
 # Tālvadības pilotu teorētisko zināšanu eksāmena noteikumi
 
 Šeit Tu vari iepazīties ar LMT pakalpojuma “Tālvadības pilotu A2 apakškategorijas un specifiskās kategorijas teorētisko zināšanu eksāmens” [noteikumiem](http://lmt.mstatic.lv/lmt/files/teoretisko-zinasanu-eksamenu-pakalpojuma-noteikumi_v1.pdf).
 
-https://www.lmt.lv/lv/juridiska-informacija?fid=927
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=927
