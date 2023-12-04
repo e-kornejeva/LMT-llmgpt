@@ -20,7 +20,7 @@ To var izdarīt 3 veidos – izvēlies sev ērtāko!
 
 Šeit pieejama [LMT pilnvaras forma](https://lmt.mstatic.lv/lmt/files/pilnvaras-forma_priv_v1.pdf).
 
-https://www.lmt.lv/lv/pilnvaras?fid=986
+#### URL: https://www.lmt.lv/lv/pilnvaras?fid=986
   
   
 ## Kāda informācija jānorāda pilnvarā, lai maniem rēķiniem varētu piekļūt cita persona?
@@ -55,4 +55,4 @@ Ja vēlies, lai informāciju par taviem rēķiniem pilnvarotā persona saņemtu 
 
  - Iespēja pieprasīt rēķinu (bez sarunu saraksta) jebkurā LMT klientu centrā.
 
-https://www.lmt.lv/lv/pilnvaras?fid=989
+#### URL: https://www.lmt.lv/lv/pilnvaras?fid=989
