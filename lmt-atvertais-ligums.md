@@ -13,13 +13,14 @@ https://www.lmt.lv/lv/atvertais-ligums?fid=530
   
   
 # Kam ir pieejams pakalpojums ATVĒRTAIS?
+#### URL: https://www.lmt.lv/lv/atvertais-ligums?fid=541
 
 Pakalpojums ATVĒRTAIS ir pieejams ikvienam – LMT un citu operatoru klientiem, priekšapmaksas karšu lietotājiem, kā arī cilvēkiem, kas vēl nav izdarījuši savu izvēli.
 
 Rūpējoties par klienta spējām ilgtermiņā pildīt saistības, pakalpojums ATVĒRTAIS var tikt atteikts, ja par klienta kredītspēju nav pieejama pietiekama informācija, tā ir negatīva u.tml. iemesli.
 
 
-https://www.lmt.lv/lv/atvertais-ligums?fid=541
+
   
   
 # Vai varu dabūt vairākas iekārtas pakalpojuma ATVĒRTAIS ietvaros?
