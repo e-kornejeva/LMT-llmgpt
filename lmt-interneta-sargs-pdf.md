@@ -1,3 +1,5 @@
+#### URL: https://lmt.mstatic.lv/lmt/files/interneta-sargs_noteikumi_v1.pdf
+
 # Pakalpojuma “Interneta sargs” noteikumi 
 
 # 1.Vispārīgie noteikumi 
