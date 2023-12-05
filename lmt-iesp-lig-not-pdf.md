@@ -1,3 +1,5 @@
+#### URL: https://lmt.mstatic.lv/lmt/files/pdf/iespeju_ligums.pdf
+
 Līguma par LMT pakalpojumu "Iespēju līgums" noteikumi 
 
 1.	Līguma priekšmets
