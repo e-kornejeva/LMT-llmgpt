@@ -1,3 +1,5 @@
+#### URL: https://lmt.mstatic.lv/lmt/files/pdf/lmt_pakalpojumu_liguma_noteikumi_2018.pdf
+
 LMT Pakalpojumu līguma noteikumi
  
 I VISPĀRĪGIE NOTEIKUMI
@@ -189,7 +191,11 @@ VIII INFORMĀCIJAS SNIEGŠANA UN DATU APSTRĀDE
 45.	LMT ir tiesīgs sniegt un ievietot informāciju par parādu un Klientu,ieskaitot Klienta personas datus, normatīvajos aktos noteiktā kārtībā reģistrētās parādvēstures un kredītinformācijas datu bāzēs, kā arī saglabāt un nodot trešajām personām informāciju, kas iesniegta, pārraidīta un nosūtīta LMT, tajā skaitā personas datus, un ar šo Līgumu saistīto informāciju, lai nodrošinātu Līguma izpildi, kā arī gadījumos, ja Klients nav pienācīgi pildījis Līgumu.
 
 46.	Klientam ir pienākums nodrošināt, ka trešo personu rīcībā nesankcionētinetiek nodota Klientam piešķirtā SIM karte, iekārta, PIN un PUK kodi, identifikatori (paroles), kā arī citi drošības kodi, kuri ir piešķirti Klientam, lai nodrošinātos pret SIM kartes vai iekārtas nesankcionētu lietošanu, noskaidrotu Klienta identitāti vai citiem mērķiem.
+
 IX CITI NOTEIKUMI
+
 47.	Klients apliecina, ka viņš ir novērtējis Pakalpojumu derīgumu unatbilstību.
+
 48.	Nepārvaramas varas apstākļu dēļ Pakalpojumu sniegšana var tiktpārtraukta uz laiku līdz nepārvaramas varas apstākļu darbības beigām. LMT neatbild par Līguma saistību neizpildi vai nepienācīgu izpildi, ja tā cēlonis ir nepārvarama vara.
+
 49.	Ja Klients noslēdz LMT pakalpojumu līgumu saskaņā ar šiem Noteikumiem, veic grozījumus iepriekš LMT un Klienta noslēgtajos LMT pakalpojumu līgumos norādītajā informācijā par Klientu vai Pakalpojumu klāstā, Noteikumi tiek piemēroti arī iepriekš LMT un Klienta noslēgtajiem LMT līgumiem.
