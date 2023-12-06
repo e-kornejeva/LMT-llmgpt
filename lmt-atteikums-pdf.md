@@ -1,3 +1,6 @@
+#### URL: https://lmt.mstatic.lv/lmt/files/informacija_par_atteikuma_tiesibam_veidlapa_13_06_2014.pdf
+
+
 ”Latvijas Mobilais Telefons” SIA, Ropažu iela 6, Rīga, LV-1039, tālrunis 8076 8076, Fakss: 67773707, e-pasts: info@lmt.lv 
  
 Atteikuma tiesības 
