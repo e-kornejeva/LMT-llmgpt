@@ -1,3 +1,5 @@
+#### URL: https://lmt.mstatic.lv/lmt/files/nomaksa_noteikumi_01.08.2018.pdf
+
 Līguma par LMT pakalpojumu “Nomaksa” noteikumi
 
 1. Līguma priekšmets
@@ -89,8 +91,11 @@ noteiktajā kārtībā.
 izmantošana tiek veikta, lai nodrošinātu Līgumā noteiktās saistības, tostarp Klienta pieteiktos prasījumus, kā arī izpildītu normatīvo aktu
 prasības un Līdzēju leģitīmās intereses. Datu apstrāde un aizsardzība tiek nodrošināta saskaņā ar LMT un attiecīgi Dīlera privātuma politiku,
 kas ir Līguma neatņemama sastāvdaļa.
+
 5.3. Klients, parakstot Līgumu, apliecina, ka ir iepazinies ar Līguma par LMT pakalpojumu “Nomaksa” noteikumiem un Noteikumiem un apņemas
 tos ievērot.
+
 5.4. Līgums sastādīts latviešu valodā uz 2 (divām) lapaspusēm 2 (divos) eksemplāros ar vienādu juridisku spēku, pa 1 (vienam) eksemplāram
 Klientam un LMT.
+
 Apstiprināti 2018.gada jūlijā
