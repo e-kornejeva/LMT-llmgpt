@@ -1,3 +1,5 @@
+#### URL: https://lmt.mstatic.lv/lmt/files/atvertais_noteikumi_02.07.2019.pdf
+
 Līguma par LMT pakalpojumu “Atvērtais” noteikumi
  
 
