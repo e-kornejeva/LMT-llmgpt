@@ -87,7 +87,7 @@ Atbilstoši Elektronisko sakaru likuma 19.panta pirmās daļas 22.punktam un Min
 
 #### URL: http://lmt.mstatic.lv/lmt/files/bgk_talvadibas_pilotu_apmacibas.pdf
 
-Šeit Tu vari iepazīties ar LMT bezpilota gaisa kuģu tālvadības pilotu [apmācību aprakstu un noteikumiem](http://lmt.mstatic.lv/lmt/files/bgk_talvadibas_pilotu_apmacibas.pdf).
+Šeit Tu vari iepazīties ar LMT bezpilota gaisa kuģu (dronu) tālvadības pilotu [apmācību aprakstu un noteikumiem](http://lmt.mstatic.lv/lmt/files/bgk_talvadibas_pilotu_apmacibas.pdf).
 
 
 #### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=900
