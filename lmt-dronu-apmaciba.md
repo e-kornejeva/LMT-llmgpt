@@ -5,41 +5,60 @@ APRAKSTS UN NOTEIKUMI
  
  
 ## Pakalpojums 
-▪	LMT izstrādāts pakalpojums “Bezpilota gaisa kuģu tālvadības pilotu apmācības”, kura ietvaros LMT nodrošina Pasūtītājam kā FIZISKAI personai iespēju attālināti iegādāties un apgūt sev interesējošās Apmācības.  
+ - LMT izstrādāts pakalpojums “Bezpilota gaisa kuģu tālvadības pilotu apmācības”, kura ietvaros LMT nodrošina Pasūtītājam kā FIZISKAI personai iespēju attālināti iegādāties un apgūt sev interesējošās Apmācības.  
  
 ## Apmācības 
-▪	Bezpilota gaisa kuģu, turpmāk – BGK, tālvadības pilotu apmācības fiziskām personām, turpmāk – Apmācības, ir pieejamas interaktīvajā, tiešsaistes un klātienes formā. Apmācību iegādes, pasniegšanas un apguves kārtību reglamentē šis Apmācību apraksts ar noteikumiem, turpmāk – Apraksts. 
-▪	Apmācības sastāv no vairākiem Apmācību kursiem - tēmām, kas iekļauj kā teorētisko, tā arī praktisko zināšanu apguvi. Apmācību satura apraksts ir pieejams Pakalpojuma vietnē – droni.lmt.lv  
+
+ - Bezpilota gaisa kuģu, turpmāk – BGK, tālvadības pilotu apmācības fiziskām personām, turpmāk – Apmācības, ir pieejamas interaktīvajā, tiešsaistes un klātienes formā. Apmācību iegādes, pasniegšanas un apguves kārtību reglamentē šis Apmācību apraksts ar noteikumiem, turpmāk – Apraksts. 
+
+ - Apmācības sastāv no vairākiem Apmācību kursiem - tēmām, kas iekļauj kā teorētisko, tā arī praktisko zināšanu apguvi. Apmācību satura apraksts ir pieejams Pakalpojuma vietnē – droni.lmt.lv  
  
 ## Apmācību organizēšana 
-▪	Apmācības nodrošina Pieaugušo neformālās izglītības iestāde “LMT Mācību centrs”  (reģistrācijas Nr. 3380802292), kas ir “Latvijas Mobilais Telefons” SIA 
+
+ - Apmācības nodrošina Pieaugušo neformālās izglītības iestāde “LMT Mācību centrs”  (reģistrācijas Nr. 3380802292), kas ir “Latvijas Mobilais Telefons” SIA 
 (reģistrācijas Nr. 50003050931; juridiskā adrese - Ropažu iela 6, Rīga, LV1039, Latvija; e-pasts: info@lmt.lv; tālr. 80768076) reģistrēta struktūrvienība, turpmāk - LMT.  
-▪	Apmācības LMT organizē kvalificētu Instruktoru vadībā latviešu valodā, kuriem ir atbilstošas teorētiskās un praktiskās zināšanas BGK pilotēšanā. Atsevišķos gadījumos Pasūtītājs un LMT var vienoties par citu Apmācību valodu.  
-▪	Interaktīvo un tiešsaistes Apmācību kursu pasniegšanai LMT izmanto trešo personu izstrādātus / pielāgotus interaktīvos apmācību pasniegšanas risinājumus un saziņas platformas, uz ko LMT ir visas nepieciešamās tiesības un atļaujas (licences). 
-▪	LMT e-veikala darbību un Apmācību piekļūšanas rekvizītu un izmantošanas tiesību, turpmāk – Apmācību piekļuves, iegādes iespēju nodrošina LMT Retail & Logistics SIA (reģistrācijas Nr. 40103148504; juridiskā adrese - Ropažu iela 6, Rīga, LV-1039, Latvija; e-pasts: retail@lmt.lv; tālr. 67773888). 
+
+ - Apmācības LMT organizē kvalificētu Instruktoru vadībā latviešu valodā, kuriem ir atbilstošas teorētiskās un praktiskās zināšanas BGK pilotēšanā. Atsevišķos gadījumos Pasūtītājs un LMT var vienoties par citu Apmācību valodu.  
+
+ - Interaktīvo un tiešsaistes Apmācību kursu pasniegšanai LMT izmanto trešo personu izstrādātus / pielāgotus interaktīvos apmācību pasniegšanas risinājumus un saziņas platformas, uz ko LMT ir visas nepieciešamās tiesības un atļaujas (licences). 
+
+ - LMT e-veikala darbību un Apmācību piekļūšanas rekvizītu un izmantošanas tiesību, turpmāk – Apmācību piekļuves, iegādes iespēju nodrošina LMT Retail & Logistics SIA (reģistrācijas Nr. 40103148504; juridiskā adrese - Ropažu iela 6, Rīga, LV-1039, Latvija; e-pasts: retail@lmt.lv; tālr. 67773888). 
  
 ## Pasūtītājs  
-▪ Fiziska persona, kas apgūst Apmācības (saukta arī par Apmācāmo personu). Praktisko Apmācību kursa gadījumā personai ir jābūt pilngadīgai un rīcībspējīgai. 
+
+ - Fiziska persona, kas apgūst Apmācības (saukta arī par Apmācāmo personu). Praktisko Apmācību kursa gadījumā personai ir jābūt pilngadīgai un rīcībspējīgai. 
  
 ## Apmācību maksa 
-▪ Apmācību maksas apmērs ir fiksēts LMT e-veikalā vai LMT vietnē droni.lmt.lv, vai atsevišķos individuālo Apmācību gadījumos tiek noteikts Pasūtītajam un LMT savstarpēji vienojoties. 
+
+ - Apmācību maksas apmērs ir fiksēts LMT e-veikalā vai LMT vietnē droni.lmt.lv, vai atsevišķos individuālo Apmācību gadījumos tiek noteikts Pasūtītajam un LMT savstarpēji vienojoties. 
  
 ## Apmācību iegādes kārtība 
-▪	Lai iegādātos Apmācības, Pasūtītājam ir jāveic izvēlētā Apmācību kursa iegāde LMT e-veikala vietnē www.lmt.lv vai jāpiesakās Apmācību kursam vietnē droni.lmt.lv. Pēc pirkuma izdarīšanas vai pieteikuma iesniegšanas LMT pārstāvji sazinās ar Pasūtītāju telefoniski iespējami īsā laikā, lai pabeigtu Apmācību iegādes procesu (ja Apmācību iegāde nav noformēta LMT eveikalā) un/vai vienotos par Apmācību kursu norises datumu, laiku un vietu.  
-▪	LMT e-veikala darbību reglamentē LMT e-veikala noteikumi, kas pieejami LMT e-veikala vietnē www.lmt.lv. Pasūtītājam pirms pirkuma izdarīšanas LMT eveikalā ir pienākums iepazīties ar LMT e-veikala noteikumiem un šo Aprakstu, apstiprināt to ar atzīmi pie Apmācību iegādes formas aizpildīšanas.  LMT eveikals nesniedz Apmācības, bet gan nodrošina Apmācību iegādes iespēju – iespēju iegādāties Apmācību piekļuvi. 
-▪	Apmācību kursi tiek piedāvāti tikai par vienreizēju samaksu (bez regulāro maksājumu rakstura). Informācija par Pasūtītāja maksājuma karti LMT eveikalā netiek saglabāta. 
-▪	Apmācību kursu iegādes rezultātā Pasūtītājs iegūst Apmācību piekļuvi (t.sk. saņem savā e-pastā Apmācību piekļuves rekvizītus), kas Pasūtītājam dod tiesības reģistrēties un piedalīties tiešsaistes vai klātienes Apmācību kursos vai piekļūt Interaktīvā apmācību kursa saturam.  
-▪	Ja Pasūtītājs iegādājas Interaktīvo apmācību kursu, LMT pēc Apmācību maksas apmaksas nosūta uz Pasūtītāja pieteikumā norādīto e-pasta adresi šādus Apmācību piekļuves rekvizītus – lietotāja numuru, paroli un saiti 
+
+ - Lai iegādātos Apmācības, Pasūtītājam ir jāveic izvēlētā Apmācību kursa iegāde LMT e-veikala vietnē www.lmt.lv vai jāpiesakās Apmācību kursam vietnē droni.lmt.lv. Pēc pirkuma izdarīšanas vai pieteikuma iesniegšanas LMT pārstāvji sazinās ar Pasūtītāju telefoniski iespējami īsā laikā, lai pabeigtu Apmācību iegādes procesu (ja Apmācību iegāde nav noformēta LMT eveikalā) un/vai vienotos par Apmācību kursu norises datumu, laiku un vietu.  
+
+ - LMT e-veikala darbību reglamentē LMT e-veikala noteikumi, kas pieejami LMT e-veikala vietnē www.lmt.lv. Pasūtītājam pirms pirkuma izdarīšanas LMT eveikalā ir pienākums iepazīties ar LMT e-veikala noteikumiem un šo Aprakstu, apstiprināt to ar atzīmi pie Apmācību iegādes formas aizpildīšanas.  LMT eveikals nesniedz Apmācības, bet gan nodrošina Apmācību iegādes iespēju – iespēju iegādāties Apmācību piekļuvi. 
+
+ - Apmācību kursi tiek piedāvāti tikai par vienreizēju samaksu (bez regulāro maksājumu rakstura). Informācija par Pasūtītāja maksājuma karti LMT eveikalā netiek saglabāta. 
+
+ - Apmācību kursu iegādes rezultātā Pasūtītājs iegūst Apmācību piekļuvi (t.sk. saņem savā e-pastā Apmācību piekļuves rekvizītus), kas Pasūtītājam dod tiesības reģistrēties un piedalīties tiešsaistes vai klātienes Apmācību kursos vai piekļūt Interaktīvā apmācību kursa saturam.  
+
+ - Ja Pasūtītājs iegādājas Interaktīvo apmācību kursu, LMT pēc Apmācību maksas apmaksas nosūta uz Pasūtītāja pieteikumā norādīto e-pasta adresi šādus Apmācību piekļuves rekvizītus – lietotāja numuru, paroli un saiti 
 Apmācību kursa attālinātai apguvei. Tiešsaistes un praktisko Apmācību gadījumā par Apmācību piekļuves rekvizītiem tiek uzskatīts LMT e-pastā nosūtīts apstiprinājums par Apmācību iegādi (var saturēt kodu vai citu unikālu informāciju), kā arī tiešsaistes Apmācību gadījumā arī piekļuves saite Apmācību attālinātai apguvei. Pasūtītājs nav tiesīgs savus Apmācību piekļuves rekvizītus publiskot vai nodot citai personai. Klikšķinot uz saņemtās saites, Pasūtītājs var piekļūt Apmācību saturam.  
-▪	Apmācību piekļuvi Interaktīvo apmācību gadījumā Pasūtītājs var izmantot (aktivizēt) līdz 2023.gada 2.jūnijam. Interaktīvo apmācību platforma ar tajā esošo interaktīvo Apmācību saturu Pasūtītājam ir pieejama 1 (vienu) mēnesi no Apmācību piekļuves aktivizēšanas ar Pasūtītājam nosūtītajiem Apmācību piekļuves rekvizītiem. Citiem Apmācību kursiem Apmācību piekļuves derīguma termiņš nav ierobežots, kamēr vien LMT nodrošina šādu Apmācību norisi. 
-▪	Maksājuma attaisnojuma dokuments, kas Pasūtītājam tiek nosūtīts uz e-pastu par LMT e-veikalā veiktā Apmācību iegādes darījuma noslēgšanu, ir LMT Retail & Logistics sagatavota pavadzīme.   
-▪	Pasūtītājs nodrošina Apmācību attālinātai apguvei nepieciešamo datortehniku un atbilstoša ātruma interneta pieslēgumu. 
-▪	Iegādājoties Apmācības, LMT e-veikala formā Pasūtītājs ievada šādu informāciju par sevi kā Apmācāmo personu: vārdu, uzvārdu, telefona numuru 
+
+ - Apmācību piekļuvi Interaktīvo apmācību gadījumā Pasūtītājs var izmantot (aktivizēt) līdz 2023.gada 2.jūnijam. Interaktīvo apmācību platforma ar tajā esošo interaktīvo Apmācību saturu Pasūtītājam ir pieejama 1 (vienu) mēnesi no Apmācību piekļuves aktivizēšanas ar Pasūtītājam nosūtītajiem Apmācību piekļuves rekvizītiem. Citiem Apmācību kursiem Apmācību piekļuves derīguma termiņš nav ierobežots, kamēr vien LMT nodrošina šādu Apmācību norisi. 
+
+ - Maksājuma attaisnojuma dokuments, kas Pasūtītājam tiek nosūtīts uz e-pastu par LMT e-veikalā veiktā Apmācību iegādes darījuma noslēgšanu, ir LMT Retail & Logistics sagatavota pavadzīme.   
+
+ - Pasūtītājs nodrošina Apmācību attālinātai apguvei nepieciešamo datortehniku un atbilstoša ātruma interneta pieslēgumu. 
+
+ - Iegādājoties Apmācības, LMT e-veikala formā Pasūtītājs ievada šādu informāciju par sevi kā Apmācāmo personu: vārdu, uzvārdu, telefona numuru 
 un e-pasta adresi. LMT e-veikala pieteikuma formā norādītā Pasūtītāja e-pasta adrese tiks izmantota rēķinu un citu ar Pakalpojuma sniegšanu saistītu LMT paziņojumu, kā arī apliecinājuma par Apmācību apguvi nosūtīšanai. 
  
 ## Reģistrēšanās Apmācībām 
-▪	Pēc Apmācību kursa iegādes LMT e-veikalā vai pēc pieteikuma iesniegšanas vietnē droni.lmt.lv LMT pārstāvji sazinās ar Pasūtītāju telefoniski iespējami īsā laikā, lai vienotos par Apmācību kursu norises datumu, laiku un vietu, tādejādi reģistrējot Pasūtītāju Apmācībām.  
-▪	Reģistrēšanās Interaktīvajam apmācību kursam nav nepieciešams un kurss ir pieejams interneta vidē 24/7 režīmā.  
+
+ - Pēc Apmācību kursa iegādes LMT e-veikalā vai pēc pieteikuma iesniegšanas vietnē droni.lmt.lv LMT pārstāvji sazinās ar Pasūtītāju telefoniski iespējami īsā laikā, lai vienotos par Apmācību kursu norises datumu, laiku un vietu, tādejādi reģistrējot Pasūtītāju Apmācībām.  
+
+ - Reģistrēšanās Interaktīvajam apmācību kursam nav nepieciešams un kurss ir pieejams interneta vidē 24/7 režīmā.  
  
 ## Apmācību norises vieta un ilgums 
 ▪	Teorijas kursam - tiešsaistē (Zoom platformā) vai klātienē Ropažu ielā 6 vai 
