@@ -1,13 +1,19 @@
 #### URL: https://lmt.mstatic.lv/lmt/files/informacija_par_atteikuma_tiesibam_veidlapa_13_06_2014.pdf
 
+# Informācija par kompāniju
 
 Komānija: ”Latvijas Mobilais Telefons” SIA, 
-Adrese: Ropažu iela 6, Rīga, LV-1039, 
-Tālrunis, telefons 8076 8076, 
-Fakss, faksa numurs: 67773707, 
-e-pasts: info@lmt.lv 
+
+LMT adrese: Ropažu iela 6, Rīga, LV-1039, 
+
+LMT tālrunis, telefons, numurs: 8076 8076, 
+
+LMT fakss, faksa numurs: 67773707, 
+
+LMT e-pasts: info@lmt.lv 
+
  
-Atteikuma tiesības 
+# Atteikuma tiesības 
 
 1.	Patērētājam - fiziskai personai, kas iegādājas preci vai pakalpojumu nolūkam, kas nav saistīts ar tās saimniecisko vai profesionālo darbību (tālāk tekstā – Klients) ir tiesības 14 dienu laikā atteikties no distancē un ārpus pastāvīgās saimnieciskās vai profesionālās darbības vietas noslēgta līguma (tālāk tekstā – līgums), neminot iemeslu.
 
