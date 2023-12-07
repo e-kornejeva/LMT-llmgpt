@@ -8,7 +8,7 @@ LMT adrese: Ropažu iela 6, Rīga, LV-1039,
 
 LMT tālrunis, telefons, numurs: 8076 8076, 
 
-Inesestestfrāze, LMT fakss, faksa numurs: 67773707, 
+LMT fakss, faksa numurs: 67773707, 
 
 LMT e-pasts: info@lmt.lv 
 
