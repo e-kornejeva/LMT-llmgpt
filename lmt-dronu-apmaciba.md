@@ -1,6 +1,7 @@
+# Bezpilota gaisa kuģu (dronu) tālvadības pilotu apmācību 
+
 #### URL: https://lmt.mstatic.lv/lmt/files/bgk_talvadibas_pilotu_apmacibas.pdf
 
-# Bezpilota gaisa kuģu (dronu) tālvadības pilotu apmācību 
 
 APRAKSTS UN NOTEIKUMI 
  
