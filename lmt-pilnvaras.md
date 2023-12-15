@@ -22,7 +22,7 @@ To var izdarīt 3 veidos – izvēlies sev ērtāko!
 
 #### URL: https://www.lmt.lv/lv/pilnvaras?fid=986
   
-  
+   
 ## Kāda informācija jānorāda pilnvarā, lai maniem rēķiniem varētu piekļūt cita persona?
 
 Vislabāk izmantot šo [LMT pilnvaras formu](https://lmt.mstatic.lv/lmt/files/pilnvaras-forma_priv_v1.pdf), taču iesniegumu var iesniegt Mans LMT arī brīvā formā, norādot šādu informāciju:
