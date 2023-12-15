@@ -1,6 +1,8 @@
-#### URL: https://lmt.mstatic.lv/lmt/files/informacija_par_atteikuma_tiesibam_veidlapa_13_06_2014.pdf
+
 
 # Informācija par kompāniju
+
+#### https://lmt.lmt.lv/kontakti
 
 Komānija: ”Latvijas Mobilais Telefons” SIA, 
 
@@ -14,6 +16,8 @@ LMT e-pasts: info@lmt.lv
 
  
 # Atteikuma tiesības 
+
+#### URL: https://lmt.mstatic.lv/lmt/files/informacija_par_atteikuma_tiesibam_veidlapa_13_06_2014.pdf
 
 1.	Patērētājam - fiziskai personai, kas iegādājas preci vai pakalpojumu nolūkam, kas nav saistīts ar tās saimniecisko vai profesionālo darbību (tālāk tekstā – Klients) ir tiesības 14 dienu laikā atteikties no distancē un ārpus pastāvīgās saimnieciskās vai profesionālās darbības vietas noslēgta līguma (tālāk tekstā – līgums), neminot iemeslu.
 
