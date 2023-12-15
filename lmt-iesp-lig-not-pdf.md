@@ -1,7 +1,7 @@
+
+
+# Līguma par LMT pakalpojumu "Iespēju līgums" noteikumi 
 #### URL: https://lmt.mstatic.lv/lmt/files/pdf/iespeju_ligums.pdf
-
-Līguma par LMT pakalpojumu "Iespēju līgums" noteikumi 
-
 1.	Līguma priekšmets
 
 1.1. LMT sadarbībā ar Dīleri Klientam sniedz LMT pakalpojumu "Iespēju līgums", tālāk tekstā Pakalpojums, kura ietvaros LMT lietošanā nodod un Klients par maksu lietošanā saņem Līguma 1.lapaspusē norādīto Iekārtu. Klienta izvēlētā Iekārta Klientam tiek nodrošināta uz pilnu Minimālo Pakalpojuma termiņu ar tiesībām pēc Minimālā Pakalpojuma termiņa beigām turpināt lietot Iekārtu katru nākamo Pakalpojuma izmantošanas mēnesi. 
