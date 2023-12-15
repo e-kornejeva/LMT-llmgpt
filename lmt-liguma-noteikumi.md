@@ -2,7 +2,7 @@
 
 
 # LMT pakalpojumu līgums
-
+#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=156
 Aicinām iepazīties ar [LMT Pakalpojumu līguma noteikumiem](https://lmt.mstatic.lv/lmt/files/pdf/lmt_pakalpojumu_liguma_noteikumi_2018.pdf), kā arī ar [LMT pakalpojumu godīgas lietošanas principiem](https://www.lmt.lv/lv/lmt-pakalpojumu-godigas-lietosanas-principi?fid=270).
 
 LMT nodrošina daudzveidīgu un plašu informāciju par sniegtajiem pakalpojumiem, kā arī klienta un LMT saistībām. Attīstoties pakalpojumiem, LMT piedāvā arvien jaunas iespējas. Jaunajiem piedāvājumiem un izmaiņām pakalpojumu klāstā un maksās visērtāk var sekot līdzi LMT mājas lapā. Ja tiks veiktas izmaiņas tarifu plānos vai to izmantošanas noteikumos, mēs ar Tevi sazināsimies (īsziņa, e-pasts u.tml.), dodot iespēju savlaicīgi iepazīties ar izmaiņām un izvērtēt to atbilstību interesēm un vajadzībām.
@@ -12,7 +12,7 @@ LMT klientiem – fiziskajām personām, kas iegādājas preces vai pakalpojumus
 LMT mājas lapā publicētā informācija par elektronisko sakaru un citiem pakalpojumiem, to lietošanas noteikumiem un aprakstiem, pakalpojumu kvalitāti, maksām, tarifiem un norēķiniem ir LMT Pakalpojumu līguma neatņemama sastāvdaļa. Mājas lapā pieejamo informāciju ikvienam klientam ir iespējams apskatīt tiešsaistē, kā arī saglabāt, piemēram, veicot izdruku. Papildus šī informācija ir pieejama, zvanot uz LMT informatīvo bezmaksas tālruni 8076 8076, kā arī apmeklējot jebkuru [LMT klientu centru](https://www.lmt.lv/lv/lmt-klientu-centri-un-veikali).
 
 
-#### URL: https://www.lmt.lv/lv/ligumu-noteikumi?fid=156
+
   
   
 # Nomaksas līgums
