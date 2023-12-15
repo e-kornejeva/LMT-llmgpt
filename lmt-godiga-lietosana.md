@@ -42,5 +42,5 @@ Ja neesi pārliecināts, vai Tavas darbības LMT tīklā tiks uzskatītas par ne
 #### URL: https://www.lmt.lv/lv/lmt-pakalpojumu-godigas-lietosanas-principi?fid=270
 
 Šeit Tu vari iepazīties ar [LMT pakalpojumu godīgas izmantošanas noteikumiem ārvalstīs](https://lmt.mstatic.lv/lmt/files/godigas-izmantosanas-noteikumi-eez_01.01.2023.pdf). Spēkā no 01.01.2023.
-
+ 
 #### URL: https://www.lmt.lv/lv/lmt-pakalpojumu-godigas-lietosanas-principi?fid=896
