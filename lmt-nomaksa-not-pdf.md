@@ -1,6 +1,8 @@
+# Līguma par LMT pakalpojumu “Nomaksa” noteikumi 
+
 #### URL: https://lmt.mstatic.lv/lmt/files/nomaksa_noteikumi_01.08.2018.pdf
 
-Līguma par LMT pakalpojumu “Nomaksa” noteikumi
+
 
 1. Līguma priekšmets
 
