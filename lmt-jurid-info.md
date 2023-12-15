@@ -1,7 +1,7 @@
-### URL: https://www.lmt.lv/lv/juridiska-informacija
 
 
 # Klientu saziņa ar LMT
+#### URL: https://www.lmt.lv/lv/juridiska-informacija
 
 Ja rodas kādi jautājumi, neskaidrības vai problēmsituācijas, droši sazinies ar mums:
  - LMT diennakts bezmaksas informatīvais tālrunis 80768076
@@ -22,31 +22,31 @@ Ja vēlies saņemt LMT piedāvājumus un jaunumus, informācija par pieteikšan�
 #### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=153
   
 # Elektronisko sakaru pakalpojumu kvalitāte
-
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=154
 Šeit Tu vari uzzināt vairāk par faktoriem, kas ietekmē [elektronisko sakaru pakalpojumu kvalitāti](https://lmt.mstatic.lv/lmt/files/pakalpojumu-kvalitate_30.11.2022.pdf), kā arī kvalitātes rādītājiem.
 
-#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=154
+
   
 # Nepārvaramas varas apstākļi
-
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=490
 Nepārvaramas varas apstākļu dēļ LMT pakalpojumu sniegšana var tikt pārtraukta uz laiku līdz nepārvaramas varas apstākļu darbības beigām. LMT neatbild par līguma saistību neizpildi vai nepienācīgu izpildi, ja tā cēlonis ir nepārvarama vara. Par nepārvaramas varas apstākļiem līguma izpratnē ir uzskatāmi apstākļi, kas ir ārpus LMT kontroles un traucē LMT pildīt saistības, piemēram, karš, nemieri, terorisms, dabas katastrofas, eksplozijas un ugunsgrēki, streiki, trešo personu prettiesiska rīcība, elektroapgādes traucējumi, traucējumi citos elektronisko sakaru tīklos, valsts un pašvaldību iestāžu noteiktie aizliegumi, ierobežojumi u.tml.
 
-#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=490
+
   
 # LMT Klientu attālinātās apkalpošanas noteikumi
-
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=155
 Šeit Tu vari iepazīties ar [LMT Klientu attālinātās apkalpošanas noteikumiem](https://lmt.mstatic.lv/lmt/files/lmt-klientu-attalinatas-apkalposanas-noteikumi_2023.pdf), kas ietver informāciju par LMT e-veikala, Mans LMT un zvanu centra izmantošanu.
 
-#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=155
+
   
 # Pakalpojuma Privātais maksājums noteikumi
-
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=268
 Šeit Tu vari iepazīties ar LMT pakalpojuma [Privātais maksājums](https://lmt.mstatic.lv/lmt/files/privatais_maksajums_noteikumi_v1.pdf) noteikumiem. 
 
-#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=268
+
   
 # LMT Kartes papildināšana ar bankas maksājumu karti
-
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=393
 1. Ikvienam interesentam ir iespēja papildināt LMT priekšapmaksas sarunu kartes avansu un Priekšapmaksas internets datorā kartes avansu, norēķinoties ar bankas maksājumu karti.
 
 2. Lai papildinātu LMT Kartes avansu, jāievada numurs, kuru vēlas papildināt, un jāieraksta summa, par kādu vēlas papildināt LMT Kartes avansu.
@@ -72,15 +72,15 @@ Lūdzam sagaidīt ziņojumu par samaksas rezultātu. Neveiksmīgas samaksas tran
 9. Jautājumu gadījumos par LMT Kartes pakalpojumiem lūdzam sazināties ar mums pa tālr. 80768076.
 
 
-#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=393
+
   
   
 # Piekļuves liegšana interneta vietnēm
-
+#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=617
 Atbilstoši Elektronisko sakaru likuma 19.panta pirmās daļas 22.punktam un Ministru kabineta noteikumiem Nr.291 "Kārtība, kādā Izložu un azartspēļu uzraudzības inspekcija sagatavo un nosūta lēmumu par piekļuves ierobežošanu Latvijā nelicencētu interaktīvo azartspēļu organizētāju interneta mājas lapām" tiek ierobežota piekļuve Izložu un azartspēļu uzraudzības inspekcijas norādītajām Latvijā nelicencētu interaktīvo azartspēļu organizētāju interneta vietnēm. Bloķēto interneta vietņu saraksts pieejams [Izložu un azartspēļu uzraudzības inspekcijas](https://www.iaui.gov.lv/lv/azartspeles/bloketas-saites) tīmekļa vietnē.
 
 
-#### URL: https://www.lmt.lv/lv/juridiska-informacija?fid=617
+
   
   
 # BGK tālvadības pilotu apmācību apraksts un noteikumi
